@@ -2,4 +2,4 @@
 
 |   #   | Folder Link | Assignment Description |
 | :---: | ----------- | ---------------------- |
-|  02   |     H01     |  Assignment to ensure proper commenting and README creation.      |
+|  01   |     H02     |  Assignment to ensure proper commenting and README creation.      |
