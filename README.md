@@ -4,4 +4,4 @@
 #### Image:
 ![Daniel Portillo](https://i.imgur.com/RQnz4Jn.jpg)
 #### Avatar:
-![Avatar](https://www.reddit.com/r/picrepository/comments/ikdkz3/profilepic/?utm_source=share&utm_medium=web2x&context=3)
+![Avatar](https://i.imgur.com/qf8xluZ.png)
