@@ -1,0 +1,7 @@
+Name: Daniel Portillo
+Program: P01
+Date: Sep 16 2020
+
+Start Size:  10
+Max Size:  160
+Ending Size:  160
