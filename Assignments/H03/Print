@@ -1,0 +1,37 @@
+// It would be better to use the built in 
+// vector "sort". But ... oh well.
+void Hand::Sort()
+{
+
+  
+    // Index "i" 
+    for(int i=0;i<Size();i++)
+    {
+        // Index "j"
+        for(int j=i;j<Size()-1;j++)
+        {
+            //Comparing cards at position i and j 
+            if(Cards[i]->rank > Cards[j+1]->rank)
+            {
+                cout<<"swapping " << (j +1);
+                // Added a print out indexes of what was being swapped
+                cout << " : " << Cards[i]->rank << " <- " << Cards[j+1]->rank << '\n';
+                // standard swap 
+                Card* temp = Cards[i];
+                //Previous code had i and j (NOT j+1). This caused
+                //The swap to always keep the first item in a run-
+                //through. I changed j to j+1 to match what was 
+                //being checked
+                Cards[i] = Cards[j+1];
+                Cards[j+1] = temp;
+                cout << "New ones : " << Cards[i]->rank << " and " << Cards[j+1]->rank
+                << "\n\n";
+            }
+            else 
+            {
+              cout << "no swap\n";
+            }
+        }
+        cout << "-->next one\n";
+    }
+}
