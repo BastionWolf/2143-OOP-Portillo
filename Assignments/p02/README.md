@@ -32,5 +32,5 @@
                                                                     
 
 #### Image:
-# I could not get the image to appear here.
+I could not get the image to appear here.
 (https://imgur.com/a/X5xYNkI)
