@@ -1,3 +1,3 @@
 #### Image:
 
-![BlackJack UML](https://imgur.com/a/X5xYNkI)
+![BlackJack](https://imgur.com/a/X5xYNkI/jpeg)
