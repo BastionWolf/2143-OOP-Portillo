@@ -1,3 +1,3 @@
 #### Image:
 
-![BlackJack](https://imgur.com/a/X5xYNkI/jpeg)
+![BlackJack](https://imgur.com/a/X5xYNkI)
